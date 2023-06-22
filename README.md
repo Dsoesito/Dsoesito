@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Soesito!</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left">My name is Daniel Soesito and I am an aspiring full stack developer, that is completely self-taught. I graduated from the University of Guelph in Ontario Canada with a Bachelor of Landscape Architecture in April of 2021 and have been working full time as a Landscape Designer ever since. I taught myself how to code, at first as a fun pass-time, but before I knew it, I began to fall in love with programming!</p>
 
