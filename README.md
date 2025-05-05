@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniel Soesito!</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left">My name is Daniel Soesito and I am an aspiring full stack developer, that is completely self-taught. I graduated from the University of Guelph in Ontario Canada with a Bachelor of Landscape Architecture in April of 2021 and have been working full time as a Landscape Designer ever since. I taught myself how to code, at first as a fun pass-time, but before I knew it, I began to fall in love with programming!</p>
+<p align="left">I'm Daniel — a full stack developer with a knack for building scalable web apps and making sure everything runs smoothly with solid testing practices. Whether it's a startup idea or an enterprise platform, I love turning ideas into polished digital experiences.</p>
 
-<p align="left">I started teaching myself python and though I enjoyed it, I soon came to crave some “design” aspects. I decided to look in to web development, both front and back end. I realized what I truly loved was not the “landscape” portion of my field, but rather, the “design” portion. Full stack web development has allowed me to fulfill those cravings in both the front end (designing web pages) and back end (designing the data systems). </p>
+<p align="left">💻 My toolkit includes React, NodeJS, Firebase, and Java — and I’ve used them to build everything from event ticketing systems to logistics and vendor platforms. On the testing side, I'm comfortable with Cypress, JUnit, and a mix of manual and automated approaches to keep things bug-free.</p>
 
-<p align="left">I have come a long way from the beginning and have made a lot of projects since then. This github is a compilation all my work, so please, stay a while, check it out, and feel free to get in contact with me at any time! </p>
+<p align="left">🚀 I've worked in both collaborative startup teams and fast-paced corporate settings, contributed to backend refactors, improved UI/UX, and even mentored junior devs. Agile is my happy place — I enjoy sprint planning, writing clean code, and shipping features that make an impact.</p>
+
+<p align="left">🏐 Outside of tech, I stay active through volleyball, rock climbing, and hitting the gym. It helps me recharge and stay focused — plus, it's just a lot of fun.</p>
+
+<p align="left">Feel free to check out some of my projects or reach out to chat about tech, startups, or fitness!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
